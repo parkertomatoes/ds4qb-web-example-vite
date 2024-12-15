@@ -1,0 +1,19 @@
+{
+  "name": "ds4qb-web-example-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ds4qb-web": "^0.0.4"
+  }, 
+  "devDependencies": {
+    "vite-plugin-static-copy": "^2.2.0"
+  }
+}

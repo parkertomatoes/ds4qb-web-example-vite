@@ -1,0 +1,3 @@
+[submodule "img/fdos-kernel-source"]
+	path = img/fdos-kernel-source
+	url = https://github.com/FDOS/kernel.git
