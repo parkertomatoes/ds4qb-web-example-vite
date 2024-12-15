@@ -2,7 +2,8 @@
 
 This repo provides an example of using ds4qb-web in a Vite application.
 
-Want to see it in action?
+Try it out:
+
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/parkertomatoes/ds4qb-web-example-vite)
 
 ## Getting Started
